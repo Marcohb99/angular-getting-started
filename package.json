@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/Marcohb99/angular-getting-started#readme",
   "dependencies": {
-    "@angular/platform-browser": "^18.1.4"
+    "@angular/forms": "^18.1.4",
+    "@angular/platform-browser": "^18.1.4",
+    "@angular/router": "^18.1.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.1.4"
   }
 }
