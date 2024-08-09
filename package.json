@@ -1,0 +1,22 @@
+{
+  "name": "angular-getting-started",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcohb99/angular-getting-started.git"
+  },
+  "author": "Marco Hurtado Bandres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcohb99/angular-getting-started/issues"
+  },
+  "homepage": "https://github.com/Marcohb99/angular-getting-started#readme",
+  "dependencies": {
+    "@angular/platform-browser": "^18.1.4"
+  }
+}
